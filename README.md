@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Talibabtou
 - 👀 I’m interested in Blockcahin
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML5 / CSS
 - 💞️ I’m looking to collaborate on fancy projects
 - 📫 Reach me on Twitter
