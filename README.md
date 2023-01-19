@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Talibabtou
-- 👀 I’m interested in Blockcahin
-- 🌱 I’m currently learning HTML5 / CSS
-- 💞️ I’m looking to collaborate on fancy projects
-- 📫 Reach me on Twitter
+- 👀 I’m interested in Blockchain and start my development journey just now
+- 🌱 I’m currently learning HTML5 / CSS on freecodecamp.org
