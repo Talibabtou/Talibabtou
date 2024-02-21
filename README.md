@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Talibabtou
 - 👀 I’m interested in Blockchain and start my development journey just now
-- 🌱 I’m currently learning HTML5 / CSS on freecodecamp.org
+- 🌱 I’m currently learning HTML5 / CSS on freecodecamp.org and C with 42 School
