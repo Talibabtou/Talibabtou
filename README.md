@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Talibabtou
-- 👀 I’m interested in Blockchain and start my development journey just now
-- 🌱 I’m currently learning HTML5 / CSS on freecodecamp.org and C with 42 School
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
