@@ -1,21 +1,21 @@
 <div align="center">
-  <h1>👋 Hello, I'm Tali Babtou</h1>
+  <h1>👋 Hello, I'm Guillaume Dumas</h1>
   <p><em>"As long as i'm alive, there is infinite chances that I succeed"</em> - Monkey D. Luffy</p>
 </div>
 
 <div align="center">
-  <img src="[PLACEHOLDER_FOR_CODING_GIF]" width="400" height="200"/>
+  <img src="https://tenor.com/view/gear-5-gear-5-luffy-monkey-d-luffy-luffy-luffy-gear-5-white-gif-12225526310195709408" width="400" height="200"/>
 </div>
 
 ## 🚀 About Me
 
-🎓 **42 School Lyon Student** - Completed Common Core, ready for internship and specialization  
-💻 **Frontend-focused Developer** with a passion for clean, readable code  
-🔗 **Blockchain Enthusiast** building the future of decentralized applications  
-📅 **Coding since:** <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=&query=%24.years&url=https%3A//timeapi.io/api/Time/current/zone%3FtimeZone%3DEurope/Paris&suffix=%20years%20%28since%202023%29&style=flat-square&labelColor=black&logo=calendar&logoColor=white" />
+🎓 **42 School Lyon Student** - Completed Common Core, ready for internship and specialization.  
+💻 **Frontend-focused Developer** with a passion for clean, readable code and interfaces.  
+🔗 **Blockchain Enthusiast** building the future of decentralized applications.  
+📅 **Coding since:** 2023.  
 
-🎯 **Current Focus:** Learning Rust for Solana smart contracts & preparing for blockchain specialization  
-🌍 **Open to:** Worldwide opportunities in blockchain, fintech, and innovative tech companies
+🎯 **Current Focus:** Self-taught learning Rust for Solana smart contracts & preparing for blockchain specialization, open to any other blockchain technology like Solidity or else.  
+🌍 **Open to:** Worldwide opportunities in blockchain, fintech, and innovative tech companies.  
 
 ## 🛠️ Tech Stack
 
@@ -51,29 +51,29 @@
 <tr>
 <td width="50%">
 
-### 🎮 [ft_transcendence]([REPO_LINK_PLACEHOLDER])
+### 🎮 [ft_transcendence]([https://github.com/Talibabtou/ft_transcendence])
 *42 School Capstone Project*
 - Full-stack web application
 - Custom React-like framework implementation
-- Real-time multiplayer features
+- Single, multiplayer and tournament features
 - **Tech:** TypeScript, Node.js, WebSockets
 
 </td>
 <td width="50%">
 
-### 🎲 [SoltyBet]([REPO_LINK_PLACEHOLDER])
+### 🎲 [SoltyBet]([https://github.com/Talibabtou/soltybet])
 *Blockchain Betting Platform*
 - Decentralized betting application
 - Smart contract integration
 - Modern web interface
-- **Tech:** Rust, Solana, TypeScript
+- **Tech:** Rust, Solana, Python, TypeScript
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚀 [42 Common Core]([REPO_LINK_PLACEHOLDER])
+### 🚀 [42 Common Core]([https://github.com/Talibabtou/42-common-core])
 *Comprehensive Curriculum Completion*
 - Algorithm & data structure mastery
 - System programming projects
@@ -83,9 +83,8 @@
 </td>
 <td width="50%">
 
-### 💡 Hackathons
-- 🏅 [Hackathon Name 1]([HACKATHON_LINK_PLACEHOLDER])
-- 🏅 [Hackathon Name 2]([HACKATHON_LINK_PLACEHOLDER])
+### 💡 Hackathon
+- 🏅 [RADAR Hackathon]([https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5])
 - *Building innovative solutions under pressure*
 
 </td>
@@ -99,11 +98,11 @@
 
 | Company | Role | Focus |
 |---------|------|-------|
-| **[Doge Capital]([DOGE_CAPITAL_LINK])** | Board Member | Investment & Strategy |
-| **[Xcombinator]([XCOMBINATOR_LINK])** | Advisor | Startup Acceleration |
-| **[Magicake]([MAGICAKE_LINK])** | Founder/Developer | Product Development |
-| **[SoltyBet]([SOLTYBET_LINK])** | Founder/Developer | Blockchain Gaming |
-| **[ArcheanVision]([ARCHEAN_VISION_LINK])** | Developer/Advisor | Vision & Development |
+| **[Doge Capital]([https://x.com/thedogecapital])** | Board Member | Investment & Strategy |
+| **[Xcombinator]([https://x.com/xcombhq])** | Advisor | Startup Acceleration |
+| **[Magicake]([https://x.com/MagiCake_NFT])** | Founder/Developer | Product Development |
+| **[SoltyBet]([https://x.com/SoltyBet])** | Founder/Developer | Blockchain Gaming |
+| **[ArcheanVision]([https://x.com/ArcheanVision])** | Advisor/Developer | Vision & Development |
 
 </div>
 
