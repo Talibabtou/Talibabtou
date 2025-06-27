@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/view/gear-5-gear-5-luffy-monkey-d-luffy-luffy-luffy-gear-5-white-gif-12225526310195709408" width="400" height="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRpb2dpc2ZkOGhmdXAzMHVwem5lc3N5M3VmOWJ4OTByOW4xYXNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="400" height="200"/>
 </div>
 
 ## 🚀 About Me
@@ -47,11 +47,12 @@
 
 ## 🏆 Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🎮 [ft_transcendence]([https://github.com/Talibabtou/ft_transcendence])
+### 🎮 [ft_transcendence](https://github.com/Talibabtou/ft_transcendence)
 *42 School Capstone Project*
 - Full-stack web application
 - Custom React-like framework implementation
@@ -61,7 +62,7 @@
 </td>
 <td width="50%">
 
-### 🎲 [SoltyBet]([https://github.com/Talibabtou/soltybet])
+### 🎲 [SoltyBet](https://github.com/Talibabtou/soltybet)
 *Blockchain Betting Platform*
 - Decentralized betting application
 - Smart contract integration
@@ -73,7 +74,7 @@
 <tr>
 <td width="50%">
 
-### 🚀 [42 Common Core]([https://github.com/Talibabtou/42-common-core])
+### 🚀 [42 Common Core](https://github.com/Talibabtou/42-common-core)
 *Comprehensive Curriculum Completion*
 - Algorithm & data structure mastery
 - System programming projects
@@ -84,12 +85,13 @@
 <td width="50%">
 
 ### 💡 Hackathon
-- 🏅 [RADAR Hackathon]([https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5])
+- 🏅 [RADAR Hackathon](https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5)
 - *Building innovative solutions under pressure*
 
 </td>
 </tr>
 </table>
+</div>
 
 ## 💼 Professional Experience
 
@@ -98,11 +100,11 @@
 
 | Company | Role | Focus |
 |---------|------|-------|
-| **[Doge Capital]([https://x.com/thedogecapital])** | Board Member | Investment & Strategy |
-| **[Xcombinator]([https://x.com/xcombhq])** | Advisor | Startup Acceleration |
-| **[Magicake]([https://x.com/MagiCake_NFT])** | Founder/Developer | Product Development |
-| **[SoltyBet]([https://x.com/SoltyBet])** | Founder/Developer | Blockchain Gaming |
-| **[ArcheanVision]([https://x.com/ArcheanVision])** | Advisor/Developer | Vision & Development |
+| **[Doge Capital](https://x.com/thedogecapital)** | Board Member | Investment & Strategy |
+| **[Xcombinator](https://x.com/xcombhq)** | Advisor | Startup Acceleration |
+| **[Magicake](https://x.com/MagiCake_NFT)** | Founder/Developer | Product Development |
+| **[SoltyBet](https://x.com/SoltyBet)** | Founder/Developer | Blockchain Gaming |
+| **[ArcheanVision](https://x.com/ArcheanVision)** | Advisor/Developer | Vision & Development |
 
 </div>
 
@@ -143,7 +145,7 @@ Active community manager in blockchain Discord servers and engaging with the cry
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/talibabtou" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
