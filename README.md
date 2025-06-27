@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRpb2dpc2ZkOGhmdXAzMHVwem5lc3N5M3VmOWJ4OTByOW4xYXNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="400" height="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRpb2dpc2ZkOGhmdXAzMHVwem5lc3N5M3VmOWJ4OTByOW4xYXNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="800" height="400"/>
 </div>
 
 ## 🚀 About Me
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🔤 Languages
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
-### Technologies & Tools
+### 🛠️ Technologies & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
@@ -48,49 +48,12 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-### 🎮 [ft_transcendence](https://github.com/Talibabtou/ft_transcendence)
-*42 School Capstone Project*
-- Full-stack web application
-- Custom React-like framework implementation
-- Single, multiplayer and tournament features
-- **Tech:** TypeScript, Node.js, WebSockets
+| Project | Description |
+|---------|-------------|
+| 🎮 **[ft_transcendence](https://github.com/Talibabtou/ft_transcendence)**<br>*42 School Capstone Project*<br><br>• Full-stack web application<br>• Custom React-like framework implementation<br>• Single, multiplayer and tournament features<br><br>**Tech:** TypeScript, Node.js, WebSockets | 🎲 **[SoltyBet](https://github.com/Talibabtou/soltybet)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Solana, Python, TypeScript |
+| 🚀 **[42 Common Core](https://github.com/Talibabtou/42-common-core)**<br>*Comprehensive Curriculum Completion*<br><br>• Algorithm & data structure mastery<br>• System programming projects<br>• Network & graphics programming<br><br>**Tech:** C, C++, Python | 💡 **Hackathon**<br>*RADAR Hackathon*<br><br>• [RADAR Hackathon](https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5)<br>• Building innovative solutions under pressure |
 
-</td>
-<td width="50%">
-
-### 🎲 [SoltyBet](https://github.com/Talibabtou/soltybet)
-*Blockchain Betting Platform*
-- Decentralized betting application
-- Smart contract integration
-- Modern web interface
-- **Tech:** Rust, Solana, Python, TypeScript
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚀 [42 Common Core](https://github.com/Talibabtou/42-common-core)
-*Comprehensive Curriculum Completion*
-- Algorithm & data structure mastery
-- System programming projects
-- Network & graphics programming
-- **Tech:** C, C++, Python
-
-</td>
-<td width="50%">
-
-### 💡 Hackathon
-- 🏅 [RADAR Hackathon](https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5)
-- *Building innovative solutions under pressure*
-
-</td>
-</tr>
-</table>
 </div>
 
 ## 💼 Professional Experience
