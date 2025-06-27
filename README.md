@@ -17,6 +17,38 @@
 🎯 **Current Focus:** Self-taught learning Rust for Solana smart contracts & preparing for blockchain specialization, open to any other blockchain technology like Solidity or else.  
 🌍 **Open to:** Worldwide opportunities in blockchain, fintech, and innovative tech companies.  
 
+## 💼 Professional Experience
+
+### Blockchain Ecosystem Involvement
+<div align="center">
+
+| Company | Role | Focus |
+|---------|------|-------|
+| **[Doge Capital](https://x.com/thedogecapital)** | Board Member | Investment & Strategy |
+| **[Xcombinator](https://x.com/xcombhq)** | Advisor | Startup Acceleration |
+| **[Magicake](https://x.com/MagiCake_NFT)** | Founder/Developer | Product Development |
+| **[SoltyBet](https://x.com/SoltyBet)** | Founder/Developer | Blockchain Gaming |
+| **[ArcheanVision](https://x.com/ArcheanVision)** | Advisor/Developer | Vision & Development |
+
+</div>
+
+🎯 **Career Goals:**
+- 🏢 Software Architect in innovative tech companies
+- 🚀 Successful blockchain project launcher
+- 💼 Bridge between technical teams and business stakeholders
+- 🌐 Freelance developer for global clients
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🎮 **[ft_transcendence](https://github.com/Talibabtou/ft_transcendence)**<br>*42 School Capstone Project*<br><br>• Full-stack web application<br>• Custom React-like framework implementation<br>• Single, multiplayer and tournament features<br><br>**Tech:** TypeScript, Node.js, WebSockets | 🎲 **[SoltyBet](https://github.com/Talibabtou/soltybet)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Solana, Python, TypeScript |
+| 🚀 **[42 Common Core](https://github.com/Talibabtou/42-common-core)**<br>*Comprehensive Curriculum Completion*<br><br>• Algorithm & data structure mastery<br>• System programming projects<br>• Network & graphics programming<br><br>**Tech:** C, C++, Python | 💡 **Hackathon**<br>*RADAR Hackathon*<br><br>• [RADAR Hackathon](https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5)<br>• Building innovative solutions under pressure |
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### 🔤 Languages
@@ -44,38 +76,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🎮 **[ft_transcendence](https://github.com/Talibabtou/ft_transcendence)**<br>*42 School Capstone Project*<br><br>• Full-stack web application<br>• Custom React-like framework implementation<br>• Single, multiplayer and tournament features<br><br>**Tech:** TypeScript, Node.js, WebSockets | 🎲 **[SoltyBet](https://github.com/Talibabtou/soltybet)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Solana, Python, TypeScript |
-| 🚀 **[42 Common Core](https://github.com/Talibabtou/42-common-core)**<br>*Comprehensive Curriculum Completion*<br><br>• Algorithm & data structure mastery<br>• System programming projects<br>• Network & graphics programming<br><br>**Tech:** C, C++, Python | 💡 **Hackathon**<br>*RADAR Hackathon*<br><br>• [RADAR Hackathon](https://arena.colosseum.org/projects/explore/solty-bet?previous=L3Byb2plY3RzL2V4cGxvcmU_c2VlZD04OGJmY2E2YjFhNDQzY2ZjJmhhY2thdGhvbklkPTMmc2VhcmNoPXNvbHR5)<br>• Building innovative solutions under pressure |
-
-</div>
-
-## 💼 Professional Experience
-
-### Blockchain Ecosystem Involvement
-<div align="center">
-
-| Company | Role | Focus |
-|---------|------|-------|
-| **[Doge Capital](https://x.com/thedogecapital)** | Board Member | Investment & Strategy |
-| **[Xcombinator](https://x.com/xcombhq)** | Advisor | Startup Acceleration |
-| **[Magicake](https://x.com/MagiCake_NFT)** | Founder/Developer | Product Development |
-| **[SoltyBet](https://x.com/SoltyBet)** | Founder/Developer | Blockchain Gaming |
-| **[ArcheanVision](https://x.com/ArcheanVision)** | Advisor/Developer | Vision & Development |
-
-</div>
-
-🎯 **Career Goals:**
-- 🏢 Software Architect in innovative tech companies
-- 🚀 Successful blockchain project launcher
-- 💼 Bridge between technical teams and business stakeholders
-- 🌐 Freelance developer for global clients
 
 ## 📊 GitHub Analytics
 
