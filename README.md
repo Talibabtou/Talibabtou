@@ -34,10 +34,32 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🚀 **[42 Common Core](https://github.com/Talibabtou/42-common-core)**<br>*Comprehensive Curriculum Completion*<br><br>• Algorithm & data structure mastery<br>• System programming projects<br>• Network & graphics programming<br><br>**Tech:** C, C++, Python, Docker | 🎮 **[ft_transcendence](https://github.com/Talibabtou/ft_transcendence)**<br>*42 School Capstone Project*<br><br>• Full-stack web application<br>• Custom React-like framework implementation<br>• Single, multiplayer and tournament features<br><br>**Tech:** TypeScript, Node.js, WebSockets |
-| 🎲 **[Soltybet (v1)](https://github.com/Talibabtou/soltybet)** now **[Versus (v2)](https://versus.rip)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Python, TypeScript, Reactjs | 💉 **[Adrena Open Source](https://github.com/AdrenaTalin)**<br>*Open Source Contributions*<br><br>• Bridging integrin activation and cytoskeletal organization<br>• Active development and contributions<br>• Check out my work on the Adrena GitHub<br><br>**Tech:** Typescript|
+<table>
+<tr>
+<td width="50%">
+
+🚀 **[42 Common Core](https://github.com/Talibabtou/42-common-core)**<br>*Comprehensive Curriculum Completion*<br><br>• Algorithm & data structure mastery<br>• System programming projects<br>• Network & graphics programming<br><br>**Tech:** C, C++, Python, Docker
+
+</td>
+<td width="50%">
+
+🎮 **[ft_transcendence](https://github.com/Talibabtou/ft_transcendence)**<br>*42 School Capstone Project*<br><br>• Full-stack web application<br>• Custom React-like framework implementation<br>• Single, multiplayer and tournament features<br><br>**Tech:** TypeScript, Node.js, WebSockets
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🎲 **[Soltybet (v1)](https://github.com/Talibabtou/soltybet)** now **[Versus (v2)](https://versus.rip)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Python, TypeScript, Reactjs
+
+</td>
+<td width="50%">
+
+💉 **[Adrena Open Source](https://github.com/AdrenaTalin)**<br>*Open Source Contributions*<br><br>• Bridging integrin activation and cytoskeletal organization<br>• Active development and contributions<br>• Check out my work on the Adrena GitHub<br><br>**Tech:** Typescript
+
+</td>
+</tr>
+</table>
 
 </div>
 
